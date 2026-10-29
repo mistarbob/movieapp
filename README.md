@@ -1,3 +1,38 @@
+
+# 🎬 Movie Discovery Web App
+
+A responsive, high-performance movie discovery web application built with **React** and **Vite**, powered by **The Movie Database (TMDB) API**.
+
+🚀 **Live Demo:** [Insert Your Vercel URL Here]
+
+---
+
+## 🌟 Features
+* **Popular Movies Grid:** View the latest and most popular trending movies.
+* **Real-time Search:** Search for any movie with instant TMDB API queries.
+* **Responsive Design:** Clean, mobile-friendly interface built for all screen sizes.
+* **Favorites / Watchlist:** Save favorite titles for easy access.
+
+---
+
+## 🛠️ Tech Stack
+* **Frontend Framework:** React (Vite)
+* **Routing:** React Router DOM
+* **API:** TMDB (The Movie Database API)
+* **Hosting & Deployment:** Vercel
+
+---
+
+## ⚙️ Local Development Setup
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   cd YOUR_REPO_NAME
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
